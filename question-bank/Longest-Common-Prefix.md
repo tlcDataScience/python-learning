@@ -6,12 +6,12 @@ If there is no common prefix, return an empty string "".
 
 ## Examples
 
-> Example 1:
+Example 1:
 >
 > Input: strs = ["flower","flow","flight"]  
 > Output: "fl"
 
-> Example 2:
+Example 2:
 >
 > Input: strs = ["dog","racecar","car"]  
 > Output: ""  
